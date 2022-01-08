@@ -1,1 +1,2 @@
-a experimental html product made because i wanted to learn html then just made this 
+fun project made by me also check out my YT it says the channel on the website https://peepooe.github.io/
+
