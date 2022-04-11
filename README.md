@@ -1,4 +1,49 @@
 fun project made by me also check out my YT it says the channel on the website https://peepooe.github.io/
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
@@ -82,7 +127,8 @@ fun project made by me also check out my YT it says the channel on the website h
 
 
 
+.
+.
+.
 
-
-
-peepooe.github.io/bruhv6.html
+ https://peepooe.github.io/bruhv6.html
