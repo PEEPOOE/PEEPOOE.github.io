@@ -74,3 +74,35 @@ background-size: 1800% 1800%;
     top:25%;
     left:40%;
 } 
+
+
+
+
+.top { 
+display: block;
+background-color: black;
+color: white;
+}
+
+.fancybox {
+  display: block;
+  background-color: grey;
+  max-width: 50%;
+  margin-top: 1em;
+  padding: 10px;
+}
+
+.content {
+display:block;
+color: rgb(0, 255, 0);
+}
+
+.footer {
+display: block;
+position:fixed;
+bottom:0;
+width: 100%;
+background:#6cf;
+opacity: 0.3;
+
+}
