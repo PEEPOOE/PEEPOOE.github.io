@@ -5,7 +5,7 @@ peepooe.github.io
 <a href="/2nd_page.html">2</a>
 <a href="/3rd_page.html">3</a>
 <a class="spoiler" href="/bruhv6.html">secret</a>
-<marquee style="font-size:2em; background-color: blue;" behavior="scroll" direction="left" scrollamount="50">i beat ratchet and clank gladiator on exterminator mode in co op with famous mouse clicker kaiwala</marquee>
+<marquee style="font-size:2em; background-color: blue;" behavior="scroll" direction="left" scrollamount="50">balls xd</marquee>
 </div>
 
 <div class="footer">
