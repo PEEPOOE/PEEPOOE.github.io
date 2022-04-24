@@ -68,3 +68,9 @@ background-size: 1800% 1800%;
     transform: rotate(359deg);
   }
 }
+
+.carousel-inner {
+    position:absolute;
+    top:25%;
+    left:40%;
+} 
