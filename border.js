@@ -10,9 +10,6 @@ peepooe.github.io
 <marquee style="font-size:2em; background-color: blue;" behavior="scroll" direction="left" scrollamount="50">balls xd</marquee>
 </div>
 
-<div class="footer">
-<marquee style="font-size:2em; background-color: blue;" behavior="scroll" direction="right" scrollamount="20">
-<a href="https://www.youtube.com/channel/UC66UT6pqIhuKV6ozu0KpK7Q">hey</a>, <a href="http://spooky.buslightslookscary.wtf/index.html">loser</a>
-</div>
+
 `;
 document.getElementById("border").innerHTML = border;
