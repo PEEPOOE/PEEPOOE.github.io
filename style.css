@@ -80,8 +80,8 @@ background-size: 1800% 1800%;
 
 .top { 
 display: block;
-background-color: black;
-color: white;
+background-color: grey;
+color: black;
 }
 
 .fancybox {
