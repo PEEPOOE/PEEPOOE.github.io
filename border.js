@@ -7,7 +7,7 @@ peepooe.github.io
 <a href="/4.html">4</a>
 <a href="/5.html">sec</a>
 <a class="spoiler" href="/    .html">   </a>
-<marquee style="font-size:2em; background-color: blue;" behavior="scroll" direction="left" scrollamount="50">balls xd</marquee>
+<marquee style="font-size:2em; background-color: blue;" behavior="scroll" direction="left" scrollamount="50">hi</marquee>
 </div>
 
 
