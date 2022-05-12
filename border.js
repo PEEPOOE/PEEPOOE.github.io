@@ -6,7 +6,7 @@ peepooe.github.io
 <a href="/3rd_page.html">3</a>
 <a href="/4.html">4</a>
 <a href="/5.html">sec</a>
-<a class="spoiler" href="/bruhv6.html">ret</a>
+<a class="spoiler" href="/    .html">   </a>
 <marquee style="font-size:2em; background-color: blue;" behavior="scroll" direction="left" scrollamount="50">balls xd</marquee>
 </div>
 
